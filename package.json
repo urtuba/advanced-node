@@ -1,0 +1,30 @@
+{
+  "name": "advanced-node",
+  "version": "1.0.0",
+  "description": "based on https://www.linkedin.com/learning/advanced-node-js",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urtuba/advanced-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "async",
+    "stream",
+    "http"
+  ],
+  "type": "module",
+  "author": "Samed Kahyaoglu (GitHub: urtuba)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urtuba/advanced-node/issues"
+  },
+  "homepage": "https://github.com/urtuba/advanced-node#readme",
+  "dependencies": {
+    "log-update": "^5.0.1"
+  }
+}
