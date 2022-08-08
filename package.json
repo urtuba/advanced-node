@@ -17,7 +17,6 @@
     "stream",
     "http"
   ],
-  "type": "module",
   "author": "Samed Kahyaoglu (GitHub: urtuba)",
   "license": "MIT",
   "bugs": {

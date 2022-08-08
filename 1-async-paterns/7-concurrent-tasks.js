@@ -1,3 +1,4 @@
+// add "type": "module" to package.json to run it
 import logUpdate from "log-update";
 var toX = () => "X";
 
