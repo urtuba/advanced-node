@@ -14,5 +14,6 @@
 ## 2 - Streams
 
 0. [buffer:](https://github.com/urtuba/advanced-node/blob/master/2-streams/0-buffer.js) > http server, serving video using `buffer`
-1. [stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/0-stream.js) > http server, serving video using `stream`, piping response
-2. [readable stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/0-readable-stream.js) > `readable stream`, streaming string array as binary, string, and object
+1. [stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/1-stream.js) > http server, serving video using `stream`, piping response
+2. [readable stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/2-readable-stream.js) > `readable stream`, streaming string array as binary, string, and object
+3. [stdin stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/3-readable-stream.js) `stdin` as readable stream, video reading stream, pausing stream
