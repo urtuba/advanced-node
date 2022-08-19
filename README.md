@@ -15,4 +15,4 @@
 
 0. [buffer:](https://github.com/urtuba/advanced-node/blob/master/2-streams/0-buffer.js) > http server, serving video using `buffer`
 1. [stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/0-stream.js) > http server, serving video using `stream`, piping response
-2. [readable stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/0-readable-stream.js) > `readable stream`, streaming string array
+2. [readable stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/0-readable-stream.js) > `readable stream`, streaming string array as binary, string, and object
