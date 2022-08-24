@@ -27,3 +27,5 @@
 
 0. [stream video:](https://github.com/urtuba/advanced-node/blob/master/3-http-streams/0-stream-to-browser.js) > `http` server, serving `video`
 1. [range requests:](https://github.com/urtuba/advanced-node/blob/master/3-http-streams/1-range-requests.js) > handling `range requests` while streaming video using http server
+2. [forking streams:](https://github.com/urtuba/advanced-node/blob/master/3-http-streams/2-fork-streams.js) > using multiple streams with `server`, retrieving file from `client`
+3. [hande multipart/form-data:](https://github.com/urtuba/advanced-node/blob/master/3-http-streams/3-multipart.js) > Handling file uploaded by `multipart/form-data`
