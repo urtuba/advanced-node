@@ -20,4 +20,5 @@
 4. [stdin stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/4-writable-stream.js) `writable stream`, copying file using streams, `stdout`
 5. [backpressure:](https://github.com/urtuba/advanced-node/blob/master/2-streams/5-backpressure.js) `backpressure` and `drain` in writable streams, `highWaterMark` option.
 6. [piping stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/6-piping-streams.js) any `read stream` can be piped to any `write stream`
-7. [duplex stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/7-duplex-streams.js) `duplex stream` can both read & write, `throttle`, reporting while streaming
+7. [duplex stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/7-duplex-stream.js) `duplex stream` can both read & write, `throttle`, reporting while streaming
+8. [transform stream:](https://github.com/urtuba/advanced-node/blob/master/2-streams/7-transform-stream.js) `transfor stream` modifies data while piping it
